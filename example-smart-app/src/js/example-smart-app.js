@@ -82,7 +82,7 @@
       lname: {value: ''},
       gender: {value: ''},
       birthdate: {value: ''},
-      height: {value: ''},
+      height: {value: '194'},
       weight: {value: ''},
       systolicbp: {value: ''},
       diastolicbp: {value: ''},
